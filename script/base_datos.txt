@@ -1,0 +1,5 @@
+use chas_conciliation;
+db.createCollection("transaction_switch");
+db.createCollection("transaction_institution");
+
+
