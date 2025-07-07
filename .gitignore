@@ -1,0 +1,29 @@
+# Ignorar dependencias de Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Ignorar archivos de entorno
+
+# Ignorar archivos de logs
+logs/
+*.log
+
+# Ignorar compilaciones y distribuciones
+dist/
+build/
+coverage/
+
+# Ignorar configuraciones del editor y sistema operativo
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Ignorar otros archivos generados
+*.bak
+*.swp
+*.swo
+
+package-lock.json
+package.json
